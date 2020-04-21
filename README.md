@@ -1,7 +1,15 @@
-﻿# lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
+﻿# INTEGRANTES:
+**Arley Stiven Rodriguez 60335;**
+
+**Cesar Eduardo Martinez 63810;**
+
+**Juan Camilo Arévalo Garzón 63572;**
+
+# lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
+
+
 ## Introducción
 
-Cesar Eduardo Martinez Ortega
 
 Para este paquete de trabajo, deben estar inscrito en un grupo y clonar la información del siguiente link [WP05](https://classroom.github.com/g/dHrBou9a). Una vez aceptado el repositorio debe descargarlo en su computador, para ello debe clonar el mismo. Si no sabe cómo hacerlo revise la metodología de trabajo, donde se explica el proceso
 
