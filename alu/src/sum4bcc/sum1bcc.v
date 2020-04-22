@@ -1,38 +1,20 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    20:26:57 08/19/2019 
-// Design Name: 
-// Module Name:    sum1bcc 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
 
-module sum1bcc (A, B, Ci,Cout,S);
+module sum1bcc (A, B, Ci,Cout,S); //definir funcion
 
-  input  A;
-  input  B;
-  input  Ci;
-  output Cout;
-  output S;
+  input  A; //definir entrada A
+  input  B; //definir entrada B
+  input  Ci; //definir entradas 
+  
+  output Cout; //definir salidas
+  output S; //definir salidas
 
-  wire [1:0] st;
+  wire [1:0] st; //conexion "alambre" salida sumador
+
   assign S = st[0];
   assign Cout = st[1];
 
-  assign st  = 	A+B+Ci;
- 
-  
+  assign st = A+B+Ci; //realiza operacion suma
+   
 endmodule
 
