@@ -26,7 +26,7 @@ Una vez clone el repositorio, realice lo siguiente:
 
 **SIMULACION EN QUARTUS**
 
-	**Bloque suma de 4 bits
+	**Diagrama estructural bloque suma de 4 bits
 
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/sum_schematic.JPG)
 
@@ -40,11 +40,11 @@ La unidad aritmética, es tal que cuenta con componentes para realizar operacion
 Como ejercicio académico, se propone construye una unidad con 4 operaciones aritméticas: suma, resta, multiplicación y división.  de igual manera, el resultados se visualiza en los display de siete segmentos. El flujo de datos y la selección de la operación se realiza acorde a la señal opcode, y segun la siguiente tabla:
 
 
-opcode | operación  enteros positivos
-00| suma
-01| resta 
-10|  multiplicación
-11| división 
+opcode | Operación  enteros positivos
+00| Suma
+01| Resta 
+10| Multiplicación
+11| División 
 
 Por lo tanto, la unidad debe contar con:
 
