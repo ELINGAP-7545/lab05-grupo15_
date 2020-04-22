@@ -28,7 +28,7 @@ Una vez clone el repositorio, realice lo siguiente:
 
 	**Diagrama estructural bloque suma de 4 bits
 
-![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/sum_schematic.JPG)
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/sum4_schematic.JPG)
 
 	**Simulacion testbench suma
 
