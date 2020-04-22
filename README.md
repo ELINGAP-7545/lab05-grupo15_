@@ -26,6 +26,8 @@ Una vez clone el repositorio, realice lo siguiente:
 
 **SIMULACION EN QUARTUS**
 
+
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/sum_schematic.JPG)
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/Sumador-quartus.JPG)
 
 
