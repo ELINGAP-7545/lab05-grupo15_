@@ -64,6 +64,10 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/div_3b_schematic.JPG)
 
+	**Simulacion division
+
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/div_3b.JPG)
+
 
 ## Descipción 
 
