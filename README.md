@@ -56,8 +56,6 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 ## Bloque DIVISOR
 
 
-**SIMULACION EN QUARTUS**
-
 	**Diagrama estructural bloque divisor de 3 bits
 
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/div_3b_schematic.JPG)
