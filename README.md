@@ -74,7 +74,7 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 
 	**Simulacion testbench multiplicador
 
-//![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/tb_mult3b.JPG)
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/tb_mult3b.JPG)
 
 
 
