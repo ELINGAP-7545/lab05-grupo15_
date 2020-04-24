@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date:    18:40:46 09/13/2019 
+// Create Date:    15:07:14 04/24/2020 
 // Design Name: 
 // Module Name:    multiplicador 
 // Project Name: 
@@ -20,27 +20,28 @@
 //////////////////////////////////////////////////////////////////////////////////
 module multiplicador( input [2:0] MR, 
 							 input [2:0] MD, 
-							input init, 
+							 input init, 
 							 input clk,  
 							 output reg [5:0] pp, 
 							 output reg done
-    );
+);
 
-reg sh;
-reg rst;
-reg add;
-reg [5:0] A;
-reg [2:0] B;
-wire z;
+	reg sh;
+	reg rst;
+	reg add;
+	reg [5:0] A;
+	reg [2:0] B;
+	
+	wire z;
 
-reg [2:0] status =0;
+	reg [2:0] status =0;
 
 // bloque comparador 
-assign z=(B==0)?1:0;
+	assign z=(B==0)?1:0;
 
 
 //bloques de registros de desplazamiento para A y B
-always @(posedge clk) begin
+	always @(posedge clk) begin
    
 	if (rst) begin
 		A = {3'b000,MD};
@@ -53,10 +54,10 @@ always @(posedge clk) begin
 		end
 	end
 
-end 
+  end 
 
 //bloque de add pp
-always @(posedge clk) begin
+  always @(posedge clk) begin
    
 	if (rst) begin
 		pp =0;
@@ -67,12 +68,12 @@ always @(posedge clk) begin
 		end
 	end
 
-end
+  end
 
 // FSM 
-parameter START =0,  CHECK =1, ADD =2, SHIFT =3, END1 =4;
+	parameter START =0,  CHECK =1, ADD =2, SHIFT =3, END1 =4;
 
-always @(posedge clk) begin
+	always @(posedge clk) begin
 	case (status)
 	START: begin
 		sh=0;
@@ -121,7 +122,6 @@ always @(posedge clk) begin
 		status =START;
 	endcase 
 	
-end 
-
+ end 
 
 endmodule
