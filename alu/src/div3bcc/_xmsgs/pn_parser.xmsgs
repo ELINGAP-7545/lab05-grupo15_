@@ -8,7 +8,7 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.v&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/QUARTUS/GitHub/lab05-grupo15_/alu/src/div3bcc/testbench.v&quot; into library work</arg>
 </msg>
 
 </messages>
