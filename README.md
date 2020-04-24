@@ -65,6 +65,20 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/div_3b.JPG)
 
 
+## Bloque MULTIPLICADOR
+
+
+	**Diagrama estructural bloque multiplicador de 3 bits
+
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/mult_3b.JPG)
+
+	**Simulacion testbench multiplicador
+
+//![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/div_3b.JPG)
+
+
+
+
 ## Descipción 
 
 Para este paquete de trabajo, deben estar inscrito en un grupo y clonar la información del siguiente link [WP05](https://classroom.github.com/g/dHrBou9a). Una vez aceptado el repositorio debe descargarlo en su computador, para ello debe clonar el mismo. Si no sabe cómo hacerlo revise la metodología de trabajo, donde se explica el proceso
