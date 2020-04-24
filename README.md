@@ -44,8 +44,6 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 ## Bloque SUMADOR
 
 
-**SIMULACION EN QUARTUS**
-
 	**Diagrama estructural bloque suma de 3 bits
 
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/sum3b_shematic.JPG)
