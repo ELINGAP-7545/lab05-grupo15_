@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="div3bcc.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="div3bcc.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="div3bcc.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="div3bcc.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="div3bcc.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="div3bcc.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="div3bcc.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="div3bcc.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="div3bcc.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="div3bcc.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="div3bcc.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="div3bcc.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="div3bcc.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="div3bcc.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="div3bcc.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="div3bcc.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="div3bcc.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="div3bcc.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="div3bcc.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="div3bcc.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="div3bcc_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="div3bcc_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="div3bcc_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="div3bcc_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="div3bcc_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="div3bcc_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="div3bcc_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="div3bcc_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="div3bcc_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="div3bcc_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="div3bcc_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="div3bcc_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="div3bcc_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="div3bcc_par.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="div3bcc_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="div3bcc_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="div3bcc_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="div3bcc_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="div3bcc_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1587612266" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612266" xil_pn:in_ck="145270307349538" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="div3bcc.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612266" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="923772205812291669" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612266" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="575487181516829655" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612266" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-7389603504659717216" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612266" xil_pn:in_ck="145270307349538" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="div3bcc.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612269" xil_pn:in_ck="145270307349538" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2862432122184130677" xil_pn:start_ts="1587612266">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="div3bcc_beh.prj"/>
+      <outfile xil_pn:name="div3bcc_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612269" xil_pn:in_ck="5411236107186610957" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6467284618729222546" xil_pn:start_ts="1587612269">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="div3bcc_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="3656406220688592727" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-7389603504659717216" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="923772205812291669" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="2988080280822507185" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587606215" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="1613157807292696426" xil_pn:start_ts="1587606215">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612158" xil_pn:in_ck="145270307349538" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="4258742240386475975" xil_pn:start_ts="1587612150">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="div3bcc.lso"/>
+      <outfile xil_pn:name="div3bcc.ngc"/>
+      <outfile xil_pn:name="div3bcc.ngr"/>
+      <outfile xil_pn:name="div3bcc.prj"/>
+      <outfile xil_pn:name="div3bcc.stx"/>
+      <outfile xil_pn:name="div3bcc.syr"/>
+      <outfile xil_pn:name="div3bcc.xst"/>
+      <outfile xil_pn:name="div3bcc_stx_beh.prj"/>
+      <outfile xil_pn:name="div3bcc_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612018" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="1262981263343028096" xil_pn:start_ts="1587612018">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612163" xil_pn:in_ck="158199364703641668" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="4783774993892610179" xil_pn:start_ts="1587612158">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="div3bcc.bld"/>
+      <outfile xil_pn:name="div3bcc.ngd"/>
+      <outfile xil_pn:name="div3bcc_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612167" xil_pn:in_ck="158199364703641669" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1303429204059397298" xil_pn:start_ts="1587612163">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="div3bcc.pcf"/>
+      <outfile xil_pn:name="div3bcc_map.map"/>
+      <outfile xil_pn:name="div3bcc_map.mrp"/>
+      <outfile xil_pn:name="div3bcc_map.ncd"/>
+      <outfile xil_pn:name="div3bcc_map.ngm"/>
+      <outfile xil_pn:name="div3bcc_map.xrpt"/>
+      <outfile xil_pn:name="div3bcc_summary.xml"/>
+      <outfile xil_pn:name="div3bcc_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612174" xil_pn:in_ck="8561561168085240286" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="1934304854298957634" xil_pn:start_ts="1587612167">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="div3bcc.ncd"/>
+      <outfile xil_pn:name="div3bcc.pad"/>
+      <outfile xil_pn:name="div3bcc.par"/>
+      <outfile xil_pn:name="div3bcc.ptwx"/>
+      <outfile xil_pn:name="div3bcc.unroutes"/>
+      <outfile xil_pn:name="div3bcc.xpi"/>
+      <outfile xil_pn:name="div3bcc_pad.csv"/>
+      <outfile xil_pn:name="div3bcc_pad.txt"/>
+      <outfile xil_pn:name="div3bcc_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1587612174" xil_pn:in_ck="158199364703641537" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1587612172">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="div3bcc.twr"/>
+      <outfile xil_pn:name="div3bcc.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>
