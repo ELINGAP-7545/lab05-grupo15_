@@ -52,7 +52,7 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 
 	**Simulacion testbench suma
 
-![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/tb_sum4b.JPG)
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/tb_sum3b.JPG)
 
 
 ## Bloque DIVISOR

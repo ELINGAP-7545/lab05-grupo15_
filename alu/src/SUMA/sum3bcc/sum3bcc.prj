@@ -1,0 +1,2 @@
+verilog work "../sum1bcc/sum1bcc.v"
+verilog work "sum3bcc.v"
