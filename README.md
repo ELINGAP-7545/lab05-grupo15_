@@ -84,6 +84,9 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 
 ![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/bcd_schematic.JPG)
 
+	**Simulacion testbench display
+
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/tb_bcd.JPG)
 
 ## Descipción 
 
