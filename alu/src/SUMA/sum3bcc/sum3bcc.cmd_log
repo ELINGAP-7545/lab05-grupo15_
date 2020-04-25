@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 sum3bcc.ngc sum3bcc.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o sum3bcc_map.ncd sum3bcc.ngd sum3bcc.pcf 
+par -w -intstyle ise -ol high -t 1 sum3bcc_map.ncd sum3bcc.ncd sum3bcc.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml sum3bcc.twx sum3bcc.ncd -o sum3bcc.twr sum3bcc.pcf 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/sum3bcc.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 sum3bcc.ngc sum3bcc.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o sum3bcc_map.ncd sum3bcc.ngd sum3bcc.pcf 
+par -w -intstyle ise -ol high -t 1 sum3bcc_map.ncd sum3bcc.ncd sum3bcc.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml sum3bcc.twx sum3bcc.ncd -o sum3bcc.twr sum3bcc.pcf 

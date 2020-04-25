@@ -1,0 +1,5 @@
+set -tmpdir "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/xst/projnav.tmp"
+set -xsthdpdir "D:/QUARTUS/PRUEBAS/SUMA/sum3bcc/xst"
+elaborate
+-ifn sum1bcc.prj
+-ifmt mixed

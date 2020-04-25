@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 div3bcc.ngc div3bcc.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o div3bcc_map.ncd div3bcc.ngd div3bcc.pcf 
+par -w -intstyle ise -ol high -t 1 div3bcc_map.ncd div3bcc.ncd div3bcc.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml div3bcc.twx div3bcc.ncd -o div3bcc.twr div3bcc.pcf 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.xst" -ofn "D:/QUARTUS/PRUEBAS/DIVISOR/div3bcc/div3bcc.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 div3bcc.ngc div3bcc.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o div3bcc_map.ncd div3bcc.ngd div3bcc.pcf 
+par -w -intstyle ise -ol high -t 1 div3bcc_map.ncd div3bcc.ncd div3bcc.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml div3bcc.twx div3bcc.ncd -o div3bcc.twr div3bcc.pcf 

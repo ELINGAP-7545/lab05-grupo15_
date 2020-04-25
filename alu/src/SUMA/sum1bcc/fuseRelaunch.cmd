@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/QUARTUS/PRUEBAS/SUMA/sum1bcc/sum1bcc_isim_beh.exe" -prj "D:/QUARTUS/PRUEBAS/SUMA/sum1bcc/sum1bcc_beh.prj" "work.sum1bcc" "work.glbl" 

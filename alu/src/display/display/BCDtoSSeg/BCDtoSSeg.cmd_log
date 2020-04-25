@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.xst" -ofn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.syr" 
