@@ -2,14 +2,14 @@ Command line:
    div3bcc_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  52252
+     -socket  34994
 
-Wed Apr 22 22:24:31 2020
+Sat Apr 25 14:04:24 2020
 
 
- Elaboration Time: 0.0468 sec
+ Elaboration Time: 0.05 sec
 
- Current Memory Usage: 670.11 Meg
+ Current Memory Usage: 198.574 Meg
 
  Total Signals          : 18
  Total Nets             : 26
@@ -19,12 +19,10 @@ Wed Apr 22 22:24:31 2020
  Total Processes        : 9
  Total Traceable Variables  : 22
  Total Scalar Nets and Variables : 115
-Total Line Count : 32
-Total Line Count : 32
 
- Total Simulation Time: 0.1248 sec
+ Total Simulation Time: 0.09 sec
 
- Current Memory Usage: 670.11 Meg
+ Current Memory Usage: 276.173 Meg
 
-Wed Apr 22 22:27:49 2020
+Sat Apr 25 14:10:14 2020
 

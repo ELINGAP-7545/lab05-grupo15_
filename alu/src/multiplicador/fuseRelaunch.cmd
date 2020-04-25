@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/QUARTUS/PRUEBAS/multiplicador/testbench_isim_beh.exe" -prj "D:/QUARTUS/PRUEBAS/multiplicador/testbench_beh.prj" "work.testbench" "work.glbl" 
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/Pruebas/alu/src/multiplicador/multiplicador_isim_beh.exe" -prj "/home/ise/Pruebas/alu/src/multiplicador/multiplicador_beh.prj" "work.multiplicador" "work.glbl" 

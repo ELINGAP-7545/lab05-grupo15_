@@ -1,0 +1,7 @@
+verilog work "src/SUMA/sum3bcc/sum3bcc.v"
+verilog work "src/multiplicador/multiplicador.v"
+verilog work "src/div3bcc/div3bcc.v"
+verilog work "src/display/display/BCDtoSSeg/BCDtoSSeg.v"
+verilog work "alu.v"
+verilog work "testbench.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

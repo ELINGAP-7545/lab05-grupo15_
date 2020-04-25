@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-04-24T22:26:33</DateModified>
+  <DateModified>2020-04-25T15:27:56</DateModified>
   <ModuleName>multiplicador</ModuleName>
   <SummaryTimeStamp>2020-04-24T22:08:31</SummaryTimeStamp>
-  <SavedFilePath>D:/QUARTUS/PRUEBAS/multiplicador/iseconfig/multiplicador.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/QUARTUS/PRUEBAS/multiplicador\</ImplementationReportsDirectory>
+  <SavedFilePath>/home/ise/Pruebas/alu/src/multiplicador/iseconfig/multiplicador.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/ise/Pruebas/alu/src/multiplicador/</ImplementationReportsDirectory>
   <DateInitialized>2020-04-24T15:07:14</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

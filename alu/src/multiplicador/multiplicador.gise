@@ -52,9 +52,11 @@
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="multiplicador.unroutes" xil_pn:subbranch="Par"/>
     <file xil_pn:fileType="FILE_XPI" xil_pn:name="multiplicador.xpi"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="multiplicador.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multiplicador_beh.prj"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="multiplicador_envsettings.html"/>
     <file xil_pn:fileType="FILE_NCD" xil_pn:name="multiplicador_guide.ncd" xil_pn:origination="imported"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="multiplicador_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="multiplicador_isim_beh.wdb"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="multiplicador_map.map" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="multiplicador_map.mrp" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="multiplicador_map.ncd" xil_pn:subbranch="Map"/>
@@ -69,9 +71,7 @@
     <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="multiplicador_summary.xml"/>
     <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="multiplicador_usage.xml"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multiplicador_xst.xrpt"/>
-    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testbench_beh.prj"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="testbench_isim_beh.exe"/>
-    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="testbench_isim_beh.wdb"/>
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="testbench_stx_beh.prj"/>
     <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
@@ -90,11 +90,11 @@
       <outfile xil_pn:name="multiplicador.v"/>
       <outfile xil_pn:name="testbench.v"/>
     </transform>
-    <transform xil_pn:end_ts="1587759771" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="1854889385420917559" xil_pn:start_ts="1587759771">
+    <transform xil_pn:end_ts="1587828485" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-8953258546504388656" xil_pn:start_ts="1587828485">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1587759771" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-8463968783413368007" xil_pn:start_ts="1587759771">
+    <transform xil_pn:end_ts="1587828485" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="7845480814212475922" xil_pn:start_ts="1587828485">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -108,7 +108,7 @@
       <outfile xil_pn:name="multiplicador.v"/>
       <outfile xil_pn:name="testbench.v"/>
     </transform>
-    <transform xil_pn:end_ts="1587785242" xil_pn:in_ck="6204533340358384193" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="4057335136015247887" xil_pn:start_ts="1587785238">
+    <transform xil_pn:end_ts="1587828488" xil_pn:in_ck="6204533340358384193" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5136150796907803103" xil_pn:start_ts="1587828485">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -116,18 +116,18 @@
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
       <outfile xil_pn:name="isim.log"/>
-      <outfile xil_pn:name="testbench_beh.prj"/>
-      <outfile xil_pn:name="testbench_isim_beh.exe"/>
+      <outfile xil_pn:name="multiplicador_beh.prj"/>
+      <outfile xil_pn:name="multiplicador_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1587785242" xil_pn:in_ck="2862377730052865559" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6765454836195340814" xil_pn:start_ts="1587785242">
+    <transform xil_pn:end_ts="1587828795" xil_pn:in_ck="2862377730052865559" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-5727376700673371868" xil_pn:start_ts="1587828795">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="isim.cmd"/>
       <outfile xil_pn:name="isim.log"/>
-      <outfile xil_pn:name="testbench_isim_beh.wdb"/>
+      <outfile xil_pn:name="multiplicador_isim_beh.wdb"/>
     </transform>
     <transform xil_pn:end_ts="1587759160" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1587759160">
       <status xil_pn:value="SuccessfullyRun"/>

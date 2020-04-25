@@ -18,9 +18,12 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module BCDtoSSeg (BCD, SSeg);
+module BCDtoSSeg (BCD, SSeg,clk,an,rst);
 
   input [3:0] BCD;
+  input clk;
+  input rst;
+  output [3:0] an;
   output reg [6:0] SSeg;
 
 	always @ ( * ) begin
