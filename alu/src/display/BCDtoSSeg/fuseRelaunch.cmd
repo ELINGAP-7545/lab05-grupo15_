@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/testbench_isim_beh.exe" -prj "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/testbench_beh.prj" "work.testbench" "work.glbl" 
