@@ -1,4 +1,4 @@
-﻿# INTEGRANTES:
+﻿# INTEGRANTES:  JUANCHO ANDA SIN CELULAR, CREEN UN MEET Y ME ENVIAN EL ENLACE, revicen su correo
 **Arley Stiven Rodriguez 60335;**
 
 **Cesar Eduardo Martinez 63810;**
@@ -82,7 +82,7 @@ El diagrama estructural se soporta en los componentes desarrollados en los anter
 
 	**Diagrama estructural bloque display de 4 bits
 
-![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/bcd_schematic.JPG)
+![SIMULACION_SUM](https://github.com/ELINGAP-7545/lab05-grupo15_/blob/master/Imagenes/bcd_schematic_1.JPG)
 
 	**Simulacion testbench display
 

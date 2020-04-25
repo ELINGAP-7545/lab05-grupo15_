@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.xst" -ofn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.syr" 
+vhdtdtfi -lang verilog -prj BCDtoSSeg -o D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.tfi -lib work D:/QUARTUS/PRUEBAS/display/BCDtoSSeg//BCDtoSSeg.v -module BCDtoSSeg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.v -lang verilog -prj BCDtoSSeg -o BCDtoSSeg.spl -module BCDtoSSeg -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e BCDtoSSeg.spl D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.sym 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.xst" -ofn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.xst" -ofn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.syr" 
+xst -intstyle ise -ifn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.xst" -ofn "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.syr" 
+vhdtdtfi -lang verilog -prj BCDtoSSeg -o D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.tfi -lib work D:/QUARTUS/PRUEBAS/display/BCDtoSSeg//BCDtoSSeg.v -module BCDtoSSeg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

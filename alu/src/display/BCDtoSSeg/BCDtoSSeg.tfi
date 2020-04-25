@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+BCDtoSSeg instance_name (
+    .BCD(BCD), 
+    .SSeg(SSeg), 
+    .an(an)
+    );
+
+
