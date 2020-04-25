@@ -43,7 +43,7 @@ module testbench;
 		.pp(pp), 
 		.done(done)
 	);
-
+	always #1 clk = ~clk;
 	initial begin
 		// Initialize Inputs
 		MR = 0;

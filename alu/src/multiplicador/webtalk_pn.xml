@@ -3,11 +3,11 @@
 <!--The data in this file is primarily intended for consumption by Xilinx tools.
 The structure and the elements are likely to change over the next few releases.
 This means code written to parse this file will need to be revisited each subsequent release.-->
-<application name="pn" timeStamp="Fri Apr 24 15:37:28 2020">
+<application name="pn" timeStamp="Fri Apr 24 22:10:22 2020">
 <section name="Project Information" visible="false">
 <property name="ProjectID" value="D92F07F166E848828361CFE5810DF384" type="project"/>
-<property name="ProjectIteration" value="0" type="project"/>
-<property name="ProjectFile" value="D:/QUARTUS/GitHub/lab05-grupo15_/alu/src/multiplicador/multiplicador.xise" type="project"/>
+<property name="ProjectIteration" value="2" type="project"/>
+<property name="ProjectFile" value="D:/QUARTUS/PRUEBAS/multiplicador/multiplicador.xise" type="project"/>
 <property name="ProjectCreationTimestamp" value="2020-04-24T15:06:43" type="project"/>
 </section>
 <section name="Project Statistics" visible="true">
@@ -26,6 +26,7 @@ This means code written to parse this file will need to be revisited each subseq
 <property name="PROP_UserConstraintEditorPreference" value="Text Editor" type="process"/>
 <property name="PROP_intProjectCreationTimestamp" value="2020-04-24T15:06:43" type="design"/>
 <property name="PROP_intWbtProjectID" value="D92F07F166E848828361CFE5810DF384" type="design"/>
+<property name="PROP_intWbtProjectIteration" value="2" type="process"/>
 <property name="PROP_intWorkingDirLocWRTProjDir" value="Same" type="design"/>
 <property name="PROP_intWorkingDirUsed" value="No" type="design"/>
 <property name="PROP_selectedSimRootSourceNode_behav" value="work.testbench" type="process"/>

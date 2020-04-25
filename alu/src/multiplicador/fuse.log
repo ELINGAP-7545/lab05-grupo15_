@@ -1,10 +1,10 @@
-Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/QUARTUS/PRUEBAS/multiplicacion/multiplicador/testbench_isim_beh.exe -prj D:/QUARTUS/PRUEBAS/multiplicacion/multiplicador/testbench_beh.prj work.testbench work.glbl 
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/QUARTUS/PRUEBAS/multiplicador/testbench_isim_beh.exe -prj D:/QUARTUS/PRUEBAS/multiplicador/testbench_beh.prj work.testbench work.glbl 
 ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 4
 Turning on mult-threading, number of parallel sub-compilation jobs: 8 
 Determining compilation order of HDL files
-Analyzing Verilog file "D:/QUARTUS/PRUEBAS/multiplicacion/multiplicador/multiplicador.v" into library work
-Analyzing Verilog file "D:/QUARTUS/PRUEBAS/multiplicacion/multiplicador/testbench.v" into library work
+Analyzing Verilog file "D:/QUARTUS/PRUEBAS/multiplicador/multiplicador.v" into library work
+Analyzing Verilog file "D:/QUARTUS/PRUEBAS/multiplicador/testbench.v" into library work
 Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
@@ -12,8 +12,7 @@ Compiling module multiplicador
 Compiling module testbench
 Compiling module glbl
 Time Resolution for simulation is 1ps.
-Waiting for 2 sub-compilation(s) to finish...
 Compiled 3 Verilog Units
-Built simulation executable D:/QUARTUS/PRUEBAS/multiplicacion/multiplicador/testbench_isim_beh.exe
-Fuse Memory Usage: 28720 KB
-Fuse CPU Usage: 436 ms
+Built simulation executable D:/QUARTUS/PRUEBAS/multiplicador/testbench_isim_beh.exe
+Fuse Memory Usage: 28756 KB
+Fuse CPU Usage: 545 ms
