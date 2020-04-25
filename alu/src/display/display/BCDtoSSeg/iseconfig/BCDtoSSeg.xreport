@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-04-24T15:56:35</DateModified>
+  <DateModified>2020-04-24T23:03:05</DateModified>
   <ModuleName>BCDtoSSeg</ModuleName>
-  <SummaryTimeStamp>2020-04-24T15:46:07</SummaryTimeStamp>
+  <SummaryTimeStamp>2020-04-24T22:59:57</SummaryTimeStamp>
   <SavedFilePath>D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/iseconfig/BCDtoSSeg.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/QUARTUS/PRUEBAS/display/BCDtoSSeg</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>D:/QUARTUS/PRUEBAS/display/BCDtoSSeg\</ImplementationReportsDirectory>
   <DateInitialized>2020-04-24T15:43:28</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

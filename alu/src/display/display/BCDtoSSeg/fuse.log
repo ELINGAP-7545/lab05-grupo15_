@@ -7,13 +7,14 @@ Analyzing Verilog file "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/BCDtoSSeg.v" into l
 Analyzing Verilog file "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/testbench.v" into library work
 Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/testbench.v" Line 34: Port an is not connected to this instance
 Completed static elaboration
 Compiling module BCDtoSSeg
 Compiling module testbench
 Compiling module glbl
 Time Resolution for simulation is 1ps.
-Waiting for 1 sub-compilation(s) to finish...
+Waiting for 2 sub-compilation(s) to finish...
 Compiled 3 Verilog Units
 Built simulation executable D:/QUARTUS/PRUEBAS/display/BCDtoSSeg/testbench_isim_beh.exe
-Fuse Memory Usage: 28532 KB
-Fuse CPU Usage: 436 ms
+Fuse Memory Usage: 28580 KB
+Fuse CPU Usage: 514 ms

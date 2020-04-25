@@ -18,11 +18,14 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module BCDtoSSeg (BCD, SSeg);
+module BCDtoSSeg (BCD, SSeg, an);
 
   input [3:0] BCD;
   output reg [6:0] SSeg;
-
+  output [3:0] an;
+  
+  
+  // assign an=4'b1110;
 	always @ ( * ) begin
 	case (BCD)
    4'b0000: SSeg = 7'b1000000; // "0"  
