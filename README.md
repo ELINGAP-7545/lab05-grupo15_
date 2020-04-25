@@ -1,4 +1,4 @@
-﻿# INTEGRANTES:
+﻿# INTEGRANTES:  JUANCHO ANDO SIN CELULAR, CREEN UN MEET Y ME ENVIAN EL ENLACE
 **Arley Stiven Rodriguez 60335;**
 
 **Cesar Eduardo Martinez 63810;**
